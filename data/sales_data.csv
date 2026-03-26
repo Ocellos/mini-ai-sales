@@ -1,0 +1,11 @@
+product_id,product_name,jumlah_penjualan,harga,diskon,status
+1,Produk A,100,50000,10,Laris
+2,Produk B,20,30000,5,Tidak
+3,Produk C,150,70000,15,Laris
+4,Produk D,10,20000,0,Tidak
+5,Produk E,200,80000,20,Laris
+6,Produk F,30,40000,5,Tidak
+7,Produk G,120,60000,10,Laris
+8,Produk H,15,25000,0,Tidak
+9,Produk I,180,90000,25,Laris
+10,Produk J,25,35000,5,Tidak
